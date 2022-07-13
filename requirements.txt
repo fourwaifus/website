@@ -6,4 +6,3 @@ dlib
 face_recognition
 numpy
 pandas
-os
