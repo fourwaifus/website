@@ -1,9 +1,9 @@
-python==3.9.12
 streamlit
 numpy
 opencv-python
 cmake
 dlib
 face_recognition
+numpy
 pandas
 os
