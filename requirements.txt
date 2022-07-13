@@ -1,0 +1,10 @@
+streamlit
+numpy
+opencv-python
+opencv-contrib-python-headless
+opencv-contrib-python --user
+cmake
+dlib
+face_recognition
+pandas
+os
