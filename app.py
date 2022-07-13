@@ -89,5 +89,4 @@ if pilih == 'Home':
     <h1 style="text-align: center;">Home</h1>
     '''
     st.markdown(judul, unsafe_allow_html=True)
-    st.image('gambal.jpg')
     
