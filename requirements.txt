@@ -1,7 +1,7 @@
-git+https://github.com/Kitware/CMake.git
+git+https://github.com/Kitware/CMake
 streamlit
-git+https://github.com/ageitgey/face_recognition.git
-git+https://github.com/davisking/dlib.git
+git+https://github.com/ageitgey/face_recognition
+git+https://github.com/davisking/dlib
 pandas
 opencv-python
 numpy
