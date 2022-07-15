@@ -1,3 +1,4 @@
+cmake
 streamlit
 face-recognition
 pandas
