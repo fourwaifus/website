@@ -1,7 +1,0 @@
-name: stats
-dependencies:
-  - numpy
-  - pandas
-  - cmake
-  - face-recognition
-  - numpy
