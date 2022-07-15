@@ -3,6 +3,6 @@
  dependencies:
      - dlib
      - numpy
-     - scipy
+     - pandas
      - opencv
      - face_recognition
