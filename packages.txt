@@ -1,2 +1,2 @@
 cmake
-dlib-dev
+dlib-bin
