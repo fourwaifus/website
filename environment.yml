@@ -1,6 +1,7 @@
  channels:
      - conda-forge
  dependencies:
+     - streamlit
      - dlib
      - numpy
      - scipy
