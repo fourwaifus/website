@@ -5,6 +5,5 @@ channels:
 dependencies:
   - python==3.8
   - cmake==3.21.1
-  - dlib
   - onnxruntime
   - opencv
