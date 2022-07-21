@@ -3,6 +3,4 @@ scipy
 streamlit
 pillow
 requests
-opencv-python-headless==4.5.4.60
-opencv-contrib-python-headless==4.5.4.60
-face_recognition
+face-recognition
