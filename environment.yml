@@ -1,9 +1,0 @@
-channels:
-     - conda-forge
- dependencies:
-     - streamlit
-     - dlib
-     - numpy
-     - scipy
-     - opencv
-     - face_recognition
